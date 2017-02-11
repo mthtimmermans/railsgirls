@@ -18,5 +18,5 @@
  table, td, th { vertical-align: middle; border: none; }
  th {
    border-bottom: 10px solid #DDD;
-   border-top: 1px dashed green;
+   border-top: 10px dashed green;
  }
